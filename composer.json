@@ -1,0 +1,16 @@
+{
+    "name": "acer/belajar-php-unit",
+    "description": "Belajar testing PHPUnit",
+    "type": "project",
+    "license": "GPI",
+    "authors": [
+        {
+            "name": "Yoga Bagas",
+            "email": "66995175+yogastama@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
